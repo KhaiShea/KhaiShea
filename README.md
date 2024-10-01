@@ -19,4 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
     <img src="https://skillicons.dev/icons?i=anaconda,aws,discord,discordjs,gcp,graphql,java,js,nodejs,postgres,py,r,rust,sqlite,sklearn,tensorflow,ts,vue")/>
 
-https://lanyard.cnrad.dev/api/411682886996197377
+<img alt="Discord Profile" src="https://camo.githubusercontent.com/48b520c039451bfe61c70369572266e37a8fefd408c5b4e01e47eb5fdb294357/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f31313030323935333535383030373438303733" data-canonical-src="(https://lanyard.cnrad.dev/api/411682886996197377
+)" style="max-width: 100%;">
+
