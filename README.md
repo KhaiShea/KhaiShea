@@ -18,3 +18,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
     <img src="https://skillicons.dev/icons?i=anaconda,aws,discord,discordjs,gcp,graphql,java,js,nodejs,postgres,py,r,rust,sqlite,sklearn,tensorflow,ts,vue")/>
+
+https://lanyard.cnrad.dev/api/411682886996197377
