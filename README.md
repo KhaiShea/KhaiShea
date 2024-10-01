@@ -17,4 +17,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,discord,discordjs,gcp,graphql,java,js,nodejs,postgres,py,r,rust,sqlite,sklearn,tensorflow,ts,vue](https://skillicons.dev)
+(https://skillicons.dev/icons?i=anaconda,aws,discord,discordjs,gcp,graphql,java,js,nodejs,postgres,py,r,rust,sqlite,sklearn,tensorflow,ts,vue](https://skillicons.dev)
