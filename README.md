@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaishea&label=Profile%20views&color=6fd8a7&style=flat" alt="khaishea" /> </p>
 
-- 🔭 I’m currently working on [Discord Insights](https://github.com/KhaiShea/DiscordInsights)
+- 🔭 I’m currently working on basic stuff.
 
 - 🌱 I’m currently learning **Data warehousing and ETL**
 
