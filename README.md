@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaishea&label=Profile%20views&color=6fd8a7&style=flat" alt="khaishea" /> </p>
 
-- 🔭 I’m currently working on basic stuff.
-
-- 🌱 I’m currently learning **Data warehousing and ETL**
-
 - 📫 How to reach me **me@khaishea.com**
 
 <h3 align="left">Connect with me:</h3>
